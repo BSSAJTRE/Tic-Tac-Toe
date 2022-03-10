@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Applying the static keyword" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Mystery of the methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Searching bugs" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

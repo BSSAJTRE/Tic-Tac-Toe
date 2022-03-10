@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-classes-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-reports-tests.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-test-results.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-build-tmp.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task-out.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Applying_the_static_keyword.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Theory.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Tic-Tac-Toe_with_AI.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
